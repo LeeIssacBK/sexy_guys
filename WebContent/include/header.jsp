@@ -1,18 +1,5 @@
 <%@ page contentType="text/html; charset=UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>나만의 사이트</title>
-<link rel="stylesheet" type="text/css" href="../css/default.css" />
-<link rel="stylesheet" type="text/css"
-	href="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
-<link rel="stylesheet"
-	href="http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css">
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script type="text/javascript"
-	src="http://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-</head>
+
 <body>
 	<div id="wrap">
 
