@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+
+.join_main {
+  max-width: 100%;
+  background-color: rgba(54, 54, 54, 0.8);
+  padding: 20px;
+  color: #fefefe;
+}
+
