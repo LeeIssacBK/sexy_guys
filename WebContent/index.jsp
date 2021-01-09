@@ -55,7 +55,7 @@
 								</ul>
 
 								<div class="login_join">
-									<a href="#" class="login_join__item">회원가입</a>
+									<a href="./member/join.jsp" class="login_join__item">회원가입</a>
 									<a href="#" class="login_join__item">로그인</a>
 								</div>
 
